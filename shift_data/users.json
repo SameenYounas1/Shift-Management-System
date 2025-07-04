@@ -1,0 +1,312 @@
+{
+  "head_admin": {
+    "username": "head_admin",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "head_admin",
+    "name": "Head Administrator",
+    "email": "head@company.com",
+    "primary_shift": "morning",
+    "secondary_shift": "weekend_morning",
+    "hourly_rate": 30.0
+  },
+  "admin1": {
+    "username": "admin1",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "name": "Admin 1",
+    "email": "admin1@company.com",
+    "primary_shift": "late",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 25.0
+  },
+  "admin2": {
+    "username": "admin2",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "name": "Admin 2",
+    "email": "admin2@company.com",
+    "primary_shift": "night",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 25.0
+  },
+  "admin3": {
+    "username": "admin3",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "name": "Admin 3",
+    "email": "admin3@company.com",
+    "primary_shift": "weekend_morning",
+    "secondary_shift": "morning",
+    "hourly_rate": 25.0
+  },
+  "admin4": {
+    "username": "admin4",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "name": "Admin 4",
+    "email": "admin4@company.com",
+    "primary_shift": "weekend_night",
+    "secondary_shift": "late",
+    "hourly_rate": 25.0
+  },
+  "admin5": {
+    "username": "admin5",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "name": "Admin 5",
+    "email": "admin5@company.com",
+    "primary_shift": "morning",
+    "secondary_shift": "weekend_morning",
+    "hourly_rate": 20.5
+  },
+  "emp1": {
+    "username": "emp1",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 1",
+    "email": "emp1@company.com",
+    "primary_shift": "late",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp2": {
+    "username": "emp2",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 2",
+    "email": "emp2@company.com",
+    "primary_shift": "night",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp3": {
+    "username": "emp3",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 3",
+    "email": "emp3@company.com",
+    "primary_shift": "weekend_morning",
+    "secondary_shift": "morning",
+    "hourly_rate": 20.0
+  },
+  "emp4": {
+    "username": "emp4",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 4",
+    "email": "emp4@company.com",
+    "primary_shift": "weekend_night",
+    "secondary_shift": "late",
+    "hourly_rate": 20.0
+  },
+  "emp5": {
+    "username": "emp5",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 5",
+    "email": "emp5@company.com",
+    "primary_shift": "morning",
+    "secondary_shift": "weekend_morning",
+    "hourly_rate": 20.0
+  },
+  "emp6": {
+    "username": "emp6",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 6",
+    "email": "emp6@company.com",
+    "primary_shift": "late",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp7": {
+    "username": "emp7",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 7",
+    "email": "emp7@company.com",
+    "primary_shift": "night",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp8": {
+    "username": "emp8",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 8",
+    "email": "emp8@company.com",
+    "primary_shift": "weekend_morning",
+    "secondary_shift": "morning",
+    "hourly_rate": 20.0
+  },
+  "emp9": {
+    "username": "emp9",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 9",
+    "email": "emp9@company.com",
+    "primary_shift": "weekend_night",
+    "secondary_shift": "late",
+    "hourly_rate": 20.0
+  },
+  "emp10": {
+    "username": "emp10",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 10",
+    "email": "emp10@company.com",
+    "primary_shift": "morning",
+    "secondary_shift": "weekend_morning",
+    "hourly_rate": 20.0
+  },
+  "emp11": {
+    "username": "emp11",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 11",
+    "email": "emp11@company.com",
+    "primary_shift": "late",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp12": {
+    "username": "emp12",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 12",
+    "email": "emp12@company.com",
+    "primary_shift": "night",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp13": {
+    "username": "emp13",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 13",
+    "email": "emp13@company.com",
+    "primary_shift": "weekend_morning",
+    "secondary_shift": "morning",
+    "hourly_rate": 20.0
+  },
+  "emp14": {
+    "username": "emp14",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 14",
+    "email": "emp14@company.com",
+    "primary_shift": "weekend_night",
+    "secondary_shift": "late",
+    "hourly_rate": 20.0
+  },
+  "emp15": {
+    "username": "emp15",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 15",
+    "email": "emp15@company.com",
+    "primary_shift": "morning",
+    "secondary_shift": "weekend_morning",
+    "hourly_rate": 20.0
+  },
+  "emp16": {
+    "username": "emp16",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 16",
+    "email": "emp16@company.com",
+    "primary_shift": "late",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp17": {
+    "username": "emp17",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 17",
+    "email": "emp17@company.com",
+    "primary_shift": "night",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp18": {
+    "username": "emp18",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 18",
+    "email": "emp18@company.com",
+    "primary_shift": "weekend_morning",
+    "secondary_shift": "morning",
+    "hourly_rate": 20.0
+  },
+  "emp19": {
+    "username": "emp19",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 19",
+    "email": "emp19@company.com",
+    "primary_shift": "weekend_night",
+    "secondary_shift": "late",
+    "hourly_rate": 20.0
+  },
+  "emp20": {
+    "username": "emp20",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 20",
+    "email": "emp20@company.com",
+    "primary_shift": "morning",
+    "secondary_shift": "weekend_morning",
+    "hourly_rate": 20.0
+  },
+  "emp21": {
+    "username": "emp21",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 21",
+    "email": "emp21@company.com",
+    "primary_shift": "late",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp22": {
+    "username": "emp22",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 22",
+    "email": "emp22@company.com",
+    "primary_shift": "night",
+    "secondary_shift": "weekend_night",
+    "hourly_rate": 20.0
+  },
+  "emp23": {
+    "username": "emp23",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 23",
+    "email": "emp23@company.com",
+    "primary_shift": "weekend_morning",
+    "secondary_shift": "morning",
+    "hourly_rate": 20.0
+  },
+  "emp24": {
+    "username": "emp24",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 24",
+    "email": "emp24@company.com",
+    "primary_shift": "weekend_night",
+    "secondary_shift": "late",
+    "hourly_rate": 20.0
+  },
+  "emp25": {
+    "username": "emp25",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "role": "employee",
+    "name": "Employee 25",
+    "email": "emp25@company.com",
+    "primary_shift": "morning",
+    "secondary_shift": "weekend_morning",
+    "hourly_rate": 20.0
+  }
+}
